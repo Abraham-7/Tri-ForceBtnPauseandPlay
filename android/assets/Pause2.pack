@@ -1,0 +1,19 @@
+
+Pause2.png
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+Pause2off
+  rotate: false
+  xy: 1, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+Pause2on
+  rotate: false
+  xy: 123, 1
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
